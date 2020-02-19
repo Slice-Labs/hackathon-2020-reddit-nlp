@@ -1,0 +1,6 @@
+*.json
+*.zip
+data
+*.pyc
+*.joblib
+venv
