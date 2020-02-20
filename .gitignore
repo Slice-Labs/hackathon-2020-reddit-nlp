@@ -4,3 +4,4 @@ data
 *.pyc
 *.joblib
 venv
+.ipynb_checkpoints
